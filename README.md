@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Eddie37-l/Eddie37-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Hi there! 👋
+
+I'm currently learning **Python** 🐍 and exploring the world of programming! 
+
+## 🌱 What I'm working on:
+- Improving my Python skills
+- Exploring data science & automation
+- Building fun projects along the way
+
+## 🎯 Goals:
+- Master Python fundamentals
+- Work on open-source projects
+- Build something cool!
+
+## 🐱 Cat GIF for fun:
+![Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+---
+
+🚀 Happy Coding!
+
